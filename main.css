@@ -1,0 +1,17 @@
+:root{
+    --blue:rgb(12, 12, 60);
+}
+
+.titulo{
+
+    text-align: center;
+    background-color: var(--blue);
+    color: white;
+    font-size: xx-large;
+    padding: 30px;
+}
+
+.espaçamento {
+    padding: 18px;
+}
+
